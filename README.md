@@ -1,3 +1,3 @@
 # CPS_Rendezvous
-# FYP Group 107 
+HKUST ECE/CPEG FYP(2022-23) Group 107 
 

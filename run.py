@@ -264,7 +264,7 @@ def semi_train(sup_dataloader, unsup_dataloader, model, activation, loss_fn_i, l
         # sup: by labelled data
         # unsup: by unlabelled data
         # img: image data divided by video data
-        # y1, y2, y3, y4: labels of used instruments(i), actions performed(v), target anatomies(t) and combinations of triplets(ivt)
+        # y1, y2, y3, y4: labels of used instruments(tool), actions performed(verb), target anatomies(target) and combinations of triplets(triplet)
         img_sup, y1_sup, y2_sup, y3_sup, y4_sup = img_sup.cuda(), y1_sup.cuda(), y2_sup.cuda(), y3_sup.cuda(), y4_sup.cuda() 
         img_unsup, y1_unsup, y2_unsup, y3_unsup, y4_unsup = img_unsup.cuda(), y1_unsup.cuda(), y2_unsup.cuda(), y3_unsup.cuda(), y4_unsup.cuda()
 

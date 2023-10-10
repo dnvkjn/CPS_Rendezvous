@@ -1,6 +1,6 @@
 # Label-efficient Deep Learning for Surgical Video Analysis
 ***HKUST ECE/CPEG FYP(2022-23) Group 107***
-***Colaboration with [HoHohs](https://github.com/HoHohs)***
+Collaboration with [HoHohs](https://github.com/HoHohs)
 
 Implementing Rendezvous(RDV) recognition model with cross-pseudo semi-supervising(CPS) method to recognize the surgical action triplets(used instruments, actions performed and target anatomies) of the surgical video dataset, CholecT45.
 

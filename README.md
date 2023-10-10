@@ -4,6 +4,8 @@
 
 Implementing Rendezvous(RDV) recognition model with cross-pseudo semi-supervising(CPS) method to recognize the surgical action triplets(used instruments, actions performed and target anatomies) of the surgical video dataset, CholecT45.
 
+For more details about the dataset, CholecT45, please visit the [official website](https://github.com/CAMMA-public/cholect45).
+
 There are more details about this project in the [report](https://docs.google.com/document/d/1vgWkxOzHt1CHmJH6P07ugJKy10Bi0ZmO/edit).
 
 | mAP               | Instrument(I) | Verb(V) | Target(T) | IVT    |

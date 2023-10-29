@@ -18,3 +18,6 @@ AP (Average precision) is a metric in measuring the accuracy of recognitions. Av
 
 The overall performance of using semi-supervised learning with CPS is improved while comparing with that of using simple training methods. The mean average precision of surgical action triplets recognition(mAP of IVT) on the dataset, CholecT45 is increased by about 0.0139. Also, the semi-supervised learning with CPS can use part of the data that does not require labelling. This method improves the performance and reduces the labelling cost at the same time. 
 
+
+***Reference***
+[Rendezvous: Attention Mechanisms for the Recognition of Surgical Action Triplets in Endoscopic Videos](https://arxiv.org/abs/2109.03223)
